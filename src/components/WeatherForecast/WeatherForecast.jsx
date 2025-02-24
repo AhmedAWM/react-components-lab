@@ -1,4 +1,3 @@
-import React from 'react';
 import './WeatherForecast.css';
 
 const WeatherForecase = ({ day, img, imgAlt, conditions, time }) => {
